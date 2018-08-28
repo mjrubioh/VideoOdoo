@@ -1,4 +1,4 @@
-# VideoOdoo
+## VideoOdoo
 
 ### Paso a paso de Ejecución de Odoo 10 en sistema Linux.
 
@@ -51,3 +51,5 @@ createuser -U postgres -eSRdw odoo_tu_proyecto_10
 **7-** Finalmente levantamos Odoo 10.
 
 Si todo ha salido bien, abre el navegador y coloca en la url localhost:8069 y pulse enter.
+
+[Odoo (Juventud Productiva Venezolana)](https://2.bp.blogspot.com/-OjRaXhVszKM/WXZwoZYpIQI/AAAAAAAAAWE/yV9vfIMrc_cDOaJR_cQ2ERImsXVPuIJ2wCLcBGAs/s1600/odoo10.png)
